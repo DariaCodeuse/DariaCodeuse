@@ -12,4 +12,4 @@ A frontend developer in training who found a new passion in programming and soft
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariaCodeuse&show_icons=true&theme=holi)
-![Cinnamontoll Learning Machine Learning](cinnamon.jpg)
+<img src="cinnamon.png" alt="Sanrio Cinnamon" width="220">
