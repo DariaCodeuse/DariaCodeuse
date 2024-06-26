@@ -1,11 +1,13 @@
 ### Hi, I´m Karla!
-
-Software Development in process and highly interested onWeb Development
-Studying Software Development and Technologies Engineering at the Autonomous University of Chiapas (3rd year).
-Enthusiast of UX/UI design, crafting attractive and functional interfaces.
-Intern at JFX Estudios, providing software solutions to local businesses and institutions.
-Recently discovered a love for computer hardware after building my own PC.
+👩🏻‍💻 Software Developer in progress, passionate about Web Development.</br>
+🎓 Pursuing a Bachelor's in Software Development and Technologies at the Autonomous University of Chiapas.</br>
+🎨 Enthusiast of UX/UI design.</br>
+💙 Part of [Mujer Digital](https://jamujerdigital.org) by Junior Achievement to strengthen my web development and leadership skills.</br>
+👩🏻‍🏫 [Tecnolochicas](https://tecnolochicas.mx) Instructor of “Diseño de Sitios Web” emphasizing the importance of women in STEM.</br>
 
 ## About Me
 A frontend developer in training who found a new passion in programming and software development two years ago. This discovery has been transformative, not only propelling my career forward but also fueling my personal growth. My curiosity has always been a driving force, leading me to explore diverse fields, from science and medicine to languages, crafts, and even crochet.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariaCodeuse&show_icons=true&theme=holi)
 
